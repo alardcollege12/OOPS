@@ -10,7 +10,7 @@ class Student extends Person {
 public class Main {
     public static void main(String[] args) {
         Student s = new Student();
-        s.name = "Sujal";
+        s.name = "Ram";
         s.rollNo = 1;
         s.display();
     }
