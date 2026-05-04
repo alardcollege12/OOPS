@@ -3,7 +3,7 @@ abstract class Vehicle {
 }
 class Car extends Vehicle {
     void calculateInsurance() {
-        System.out.println("Car Insurance");
+        System.out.println("Car Insurance: 50000");
     }
 }
 public class Main {
