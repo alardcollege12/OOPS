@@ -12,7 +12,7 @@ class Teacher extends Person {
 public class Main {
     public static void main(String[] args) {
         Teacher t=new Teacher();
-        t.name="Sujal";
+        t.name="Ram";
         t.age=25;
         t.subject="Math";
         t.salary=40000;
